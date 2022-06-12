@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <!--<item-->
+            <!--android:id="@+id/call"-->
+            <!--android:title="@string/app_call"-->
+            <!--android:icon="@drawable/ic_call_black_24dp"/>-->
+        <!--<item
+            android:id="@+id/sms"
+            android:title="@string/app_sms"
+            android:icon="@drawable/ic_send_black_24dp"/>-->
+        <!--<item-->
+            <!--android:id="@+id/pantalla"-->
+            <!--android:title="@string/app_screen"-->
+            <!--android:icon="@drawable/ic_phone_android_black_24dp"/>-->
+        <!--<item-->
+            <!--android:id="@+id/celda"-->
+            <!--android:title="@string/app_tower_cell"-->
+            <!--android:icon="@drawable/cell_tower"/>-->
+        <item
+            android:id="@+id/dashboard"
+            android:title="@string/dashboard_name" />
+        <item
+            android:id="@+id/mood"
+            android:title="@string/mood_name" />
+        <item
+            android:id="@+id/social"
+            android:title="@string/social_name"/>
+        <item
+            android:id="@+id/physical"
+            android:title="@string/physical_name"/>
+        <item
+            android:id="@+id/psychomotor"
+            android:title="@string/psychomotor_name"/>
+        <item
+            android:id="@+id/sleep"
+            android:title="@string/sleep_name"/>
+
+        <item
+            android:id="@+id/medication"
+            android:title="@string/medication_name"/>
+        <item
+            android:id="@+id/acustic"
+            android:title="@string/acustic_name" />
+    </group>
+
+</menu>

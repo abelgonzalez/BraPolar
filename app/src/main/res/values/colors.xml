@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="keyboard_background_color">#34495e</color>
+    <color name="keyboard_divider">#2c3e50</color>
+    <color name="keyboard_pressed">#95a5a6</color>
+
+    <!--<color name="mood_state">#F7630C</color>-->
+    <color name="mood_state">#ffffff</color>
+    <color name="social_interaction">#3b5999</color>
+    <color name="physical_interaction">#25D366</color>
+    <color name="psichomotor_activity">#e4405f</color>
+    <color name="sleep_quality">#9472bf</color>
+    <color name="medication">#b92b27</color>
+    <color name="white">#ffffff</color>
+    <color name="whiteEspec">#B9FFFFFF</color>
+
+    <color name="colorMood1">#B24455</color>
+    <color name="colorMood1L">#641c27</color>
+
+    <color name="colorMood2">#E1AAC1</color>
+    <color name="colorMood2L">#744458</color>
+
+    <color name="colorMood3">#B1B1B1</color>
+    <color name="colorMood3L">#383838</color>
+
+    <color name="colorMood4">#6FAA47</color>
+    <color name="colorMood4L">#365324</color>
+
+    <color name="colorMood5">#8ae225</color>
+    <color name="colorMood5L">#233909</color>
+    <color name="acoustic">#0ad4b2</color>
+</resources>

@@ -1,0 +1,193 @@
+<resources>
+
+    <!-- Strings related to Application -->
+    <string name="app_name">BraPolar</string>
+    <string name="app_description">BraPolar descripção</string>
+
+    <!-- Strings related to login -->
+    <string name="username">Olá, Especialista!</string>
+    <string name="prompt_email">E-mail</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Iniciar Sessão</string>
+    <string name="action_sign_out_short">Sair</string>
+    <string name="error_invalid_email">Email não válido</string>
+    <string name="error_invalid_password">A senha é muito curta</string>
+    <string name="error_incorrect_password">A senha está errada</string>
+    <string name="error_field_required">Este campo é obligatório</string>
+    <string name="permission_rationale">Permissões de contatos são necessárias para fornecer conclusões de email</string>
+
+    <string name="action_add_data">Adicionar itens ao banco de dados</string>
+
+
+    <!-- Strings related to Dashboard -->
+    <string name="app_call">Ligações</string>
+    <string name="call_outgoing">Saintes</string>
+    <string name="call_outgoing_sing">Sainte</string>
+    <string name="call_incoming">Entrantes</string>
+    <string name="call_incoming_sing">Entrante</string>
+    <string name="call_missed">Perdidas</string>
+    <string name="call_missed_sing">Perdida</string>
+    <string name="app_sms">SMS</string>
+    <string name="app_screen">Tela</string>
+    <string name="app_tower_cell">Torre de celular</string>
+    <string name="app_tower_cell_change">Câmbio na torre de celular</string>
+
+    <!-- Strings related to Dashboard -->
+    <string name="dashboard_name">Início</string>
+
+    <string name="screen_accept_text">Salvar</string>
+    <string name="about_description">Todos os direitos reservados - BraPolar v1.0</string>
+
+    <!-- Strings related to Estado de ânimo -->
+    <string name="mood_name">Estado de ânimo</string>
+    <string name="mood_status">Estado de ânimo</string>
+    <string name="question_mood">Oi, tudo bem? Hoje é </string>
+    <string name="sub_question_mood">Quanto tempo sem ver você, como esteve?</string>
+    <string name="new_question_mood">BraPolar Notificação</string>
+    <string name="mood_instructions_message">Para definir seu estado de ânimo, por favor, movimente o seguinte indicador e clique em Salvar</string>
+    <string name="save_mood_state">Estado de ânimo salvo</string>
+
+    <!-- Strings related to Interação Social -->
+    <string name="social_name">Interação Social</string>
+
+    <!-- Strings related to Interação Social - Ligações -->
+    <string name="social_call">Ligações</string>
+    <string name="social_incoming_call">Ligação entrante</string>
+    <string name="social_incoming_call_type">Entrante</string>
+    <string name="social_outgoing_call">Ligação sainte</string>
+    <string name="social_outgoing_call_type">Sainte</string>
+    <string name="social_lost_call">Ligação perdida</string>
+
+    <!-- Strings related to Interação Social - SMS -->
+    <string name="social_sms">SMS</string>
+    <string name="social_voice">Voz</string>
+    <string name="social_left_text">Esquerda</string>
+    <string name="social_center_text">Centro</string>
+    <string name="social_right_text">Direita</string>
+
+    <!-- Strings related to Interação Social - Velocidade de escritura -->
+    <string name="social_writing_speed_text">Velocidade de escrita</string>
+    <string name="social_writing_speed">Velocidade de escrita</string>
+    <string name="social_words_quantity">Quantidade de palavras</string>
+    <string name="social_error_quantity">Quantidade de errors</string>
+
+    <!-- Strings related to Atividade Física -->
+    <string name="physical_name">Atividade Física</string>
+    <string name="physical_active_time">Tempo Ativo</string>
+    <string name="physical_steps">Quantidade de Pasos</string>
+    <string name="physical_distance">Distância Percorrida</string>
+    <string name="physical_left_text">Esquerda</string>
+    <string name="physical_center_text">Centro</string>
+    <string name="physical_right_text">Direita</string>
+
+    <!-- Strings related to Atividade Física - Torre de celular-->
+    <string name="cell_text">Torre de celular</string>
+    <string name="cell_current">Celda atual</string>
+    <string name="cell_id">Id de celda</string>
+    <string name="cell_lac">LAC</string>
+
+    <!-- Strings related to Atividade Física - Tela-->
+    <string name="screen_text">Tela</string>
+    <string name="screen_on_text">Ligado</string>
+    <string name="screen_off_text">Desligado</string>
+    <string name="screen_on_locked">Tela ligada (bloqueada)</string>
+    <string name="screen_off_locked">Tela desligada (bloqueada)</string>
+    <string name="screen_on_unlocked">Tela ligada (desbloqueada)</string>
+    <string name="screen_of_unlocked">Tela desligada (desbloqueada)</string>
+    <string name="screen_day">día(s)</string>
+    <string name="screen_minute">minuto(s)</string>
+    <string name="screen_seconds">segundo(s)</string>
+
+    <!-- Strings related to Atividade Psicomotora -->
+    <string name="psychomotor_name">Atividade Psicomotora</string>
+    <string name="psychomotor_voice">Voz</string>
+
+    <!-- Strings related to Qualidade de sono -->
+    <string name="sleep_name">Qualidade de sonho</string>
+    <string name="sleep_time_message">Você durmiu</string>
+    <string name="sleep_time">Horas de sonho</string>
+    <string name="sleep_quality">Escala de qualidade de sono:</string>
+    <string name="question_sleep">Você esteve dormido entre as</string>
+    <string name="sub_question_sleep">Clique aqui para definir</string>
+
+    <!-- Strings related to Medicação -->
+    <string name="medication_name">Medicação</string>
+    <string name="medication_message">Você ainda não tomou seus remédios</string>
+    <string name="medication_next_med">Próximo remédio</string>
+
+    <!-- Strings related to Caraterísticas acústicas -->
+    <string name="acustic_name">Caraterísticas acústicas</string>
+    <string name="acustic_message">Acústica</string>
+    <string name="acustic_next_med">Voz</string>
+    <string name="acoustic_name">Acoustic</string>
+
+    <!-- Strings related to Settings -->
+    <string name="action_settings">Configurações</string>
+    <string name="action_about">Acerca de</string>
+    <string name="action_contact">Contato</string>
+    <string name="action_sair">Sair do BraPolar</string>
+    <string name="title_activity_settings">Configurações</string>
+    <string name="option_track_call">Registro de ligações</string>
+    <string name="option_track_msg">Registro de mensagens</string>
+    <string name="option_track_sig">Registro de sinal</string>
+    <string name="option_track_app">Registro de uso de apps</string>
+    <string name="option_track_accelerometer">Registro de acelerómetro</string>
+    <string name="option_track_light">Registro de Sensor de luz</string>
+    <string name="option_calibrate_keyboard">Configurar teclado</string>
+
+    <!-- Strings related to Teclado  -->
+    <string name="keyboard_text">O menino brinca com o cachorro feliz</string>
+    <string name="keyboard_description">Por favor, digite o texto a continuação. Considere o uso de maiúsculas.</string>
+    <string name="typing_text">Velocidade de escrita</string>
+
+
+    <!-- Strings related to About -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Strings related to Input table -->
+    <string name="input_name">"Velocidade de Escrita"</string>
+    <string name="input_key">"char"</string>
+    <string name="input_erase">"back"</string>
+    <string name="input_open">"open"</string>
+    <string name="input_close">"close"</string>
+    <string name="input_lapse">"5000"</string>
+    <string name="input_speed_unit">" WPM"</string>
+    <string name="option_set_alarmMood">Establecer alarma Estado de ánimo</string>
+    <string name="option_set_alarmSleep">Establecer alarma Qualidade de sonho</string>
+    <string name="option_alarmMood">Estabelecido alarma Estado de ánimo </string>
+    <string name="option_alarmSleep">Estabelecido alarma Qualidade de sonho</string>
+
+    <string name="format">dd/MM/yy HH:mm:ss</string>
+    <string name="format2">dd/MM/yy HH:mm</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Strings related to Longaniza -->
+    <string name="nombreP">Nombre</string>
+    <string name="apellidosP">Sobrenome</string>
+    <string name="correoP">Correo</string>
+    <string name="passwordP">Senha</string>
+    <string name="listaP">Lista de Pessoas</string>
+    <string name="infoEdit">Editado</string>
+    <string name="infoSave">Salvo</string>
+    <string name="infoDelete">Eliminado</string>
+
+    <!--FeedBack-->
+    <string name="feedback_text">Deseja enviar as informações de hoje aos especialistas?</string>
+    <string name="feedback_yes">Informações enviadas com sucesso</string>
+    <string name="feedback_no">Envío cancelado</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="medication_new">Adicione Medicação</string>
+    <string name="medication_edit">Modificar Medicação</string>
+    <string name="medication_add">medicação adicionada</string>
+    <string name="dosagem">Dossagem(Ex 500)</string>
+    <string name="unidade">Unidade(Ex mg)</string>
+    <string name="name">Nome do remédio</string>
+    <string name="frequency">Cada(Ex. 4 horas)</string>
+    <string name="quantity">Quantidade(Ex 6 vezes)</string>
+    <string name="question_medication">Titulo Tomar Remédio:</string>
+    <string name="sub_question_Medication">Subtitulo Tomar Remédio</string>
+
+</resources>

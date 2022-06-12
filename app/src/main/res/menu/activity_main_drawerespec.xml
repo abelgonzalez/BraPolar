@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/dashboard"
+            android:title="@string/dashboard_name" />
+        <item
+            android:id="@+id/CardPaciente1"
+            android:title="Paciente1" />
+        <item
+            android:id="@+id/CardPaciente2"
+            android:title="Paciente2" />
+        <item
+            android:id="@+id/CardPaciente3"
+            android:title="Paciente3" />
+        <item
+            android:id="@+id/CardPaciente4"
+            android:title="Paciente4" />
+        <item
+            android:id="@+id/CardPaciente5"
+            android:title="Paciente5" />
+
+    </group>
+
+</menu>

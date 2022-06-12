@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:icon="@drawable/ic_more_horiz_black_24dp"
+        android:title="options"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_about"
+                android:icon="@drawable/ic_people_black_24dp"
+                android:orderInCategory="100"
+                android:title="@string/action_about" />
+            <item
+                android:id="@+id/action_contact"
+                android:icon="@drawable/contact"
+                android:orderInCategory="100"
+                android:title="@string/action_contact" />
+            <item
+                android:id="@+id/action_logout"
+                android:icon="@drawable/logout_dark"
+                android:orderInCategory="100"
+                android:title="@string/action_sair" />
+
+        </menu>
+    </item>
+</menu>

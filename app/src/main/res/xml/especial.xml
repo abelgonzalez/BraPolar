@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:keyWidth="10%p"
+    android:horizontalGap="0px"
+    android:verticalGap="0px"
+    android:keyHeight="60dp">
+    <Row>
+        <Key android:codes="-100" android:keyLabel="~" android:keyEdgeFlags="left"></Key>
+        <Key android:codes="-101" android:keyLabel="`"></Key>
+        <Key android:codes="-102" android:keyLabel="|"></Key>
+        <Key android:codes="-103" android:keyLabel="•"></Key>
+        <Key android:codes="-104" android:keyLabel="√"></Key>
+        <Key android:codes="-105" android:keyLabel="π"></Key>
+        <Key android:codes="-106" android:keyLabel="÷"></Key>
+        <Key android:codes="-107" android:keyLabel="×"></Key>
+        <Key android:codes="-108" android:keyLabel="¶"></Key>
+        <Key android:codes="-109" android:keyLabel="∆" android:keyEdgeFlags="right"></Key>
+    </Row>
+    <Row>
+        <Key android:codes="-110" android:keyLabel="£" android:keyEdgeFlags="left"></Key>
+        <Key android:codes="-111" android:keyLabel="¥"></Key>
+        <Key android:codes="-112" android:keyLabel="$"></Key>
+        <Key android:codes="-113" android:keyLabel="¢"></Key>
+        <Key android:codes="-114" android:keyLabel="^"></Key>
+        <Key android:codes="-115" android:keyLabel="°"></Key>
+        <Key android:codes="-116" android:keyLabel="="></Key>
+        <Key android:codes="-117" android:keyLabel="{"></Key>
+        <Key android:codes="-118" android:keyLabel="}"></Key>
+        <Key android:codes="-119" android:keyLabel="\\" android:keyEdgeFlags="right"></Key>
+    </Row>
+    <Row>
+        <Key android:keyLabel="\?123" android:keyWidth="15%p" android:keyEdgeFlags="left" android:codes="-6"></Key>
+        <Key android:codes="-120" android:keyLabel="%"></Key>
+        <Key android:codes="-121" android:keyLabel="©"></Key>
+        <Key android:codes="-122" android:keyLabel="®"></Key>
+        <Key android:codes="-123" android:keyLabel="™"></Key>
+        <Key android:codes="-124" android:keyLabel="✓"></Key>
+        <Key android:codes="-125" android:keyLabel="["></Key>
+        <Key android:codes="-126" android:keyLabel="]" ></Key>
+        <Key android:keyIcon="@drawable/backspace_svg"  android:keyWidth="15%p" android:codes="-5" android:isRepeatable="true" android:keyEdgeFlags="right"></Key>
+    </Row>
+    <Row android:rowEdgeFlags="bottom">
+        <Key android:keyLabel="ABC" android:keyWidth="15%p" android:keyEdgeFlags="left" android:codes="-9"></Key>
+        <Key android:codes="60" android:keyLabel="&lt;"></Key>
+        <Key android:codes="-10" android:keyLabel="12/34"></Key>
+        <Key android:keyLabel="Space" android:keyWidth="40%p"  android:codes="32" android:isRepeatable="true"></Key>
+        <Key android:codes="62" android:keyLabel="&gt;" android:keyEdgeFlags="right"></Key>
+        <Key android:keyLabel="↲" android:keyWidth="15%p"  android:codes="-4" android:keyEdgeFlags="right"></Key>
+    </Row>
+</Keyboard>

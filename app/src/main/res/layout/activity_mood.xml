@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_mood"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="br.example.com.brapolar.Activities.MoodActivity"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/text_date"
+            tools:text="TextView"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:fontFamily="sans-serif-condensed"
+            android:textSize="36sp"
+            android:textStyle="normal|bold"
+            android:textAllCaps="true"
+            android:textAlignment="center"
+            android:textColor="@android:color/holo_green_dark"
+            android:onClick="setDate"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="30.0sp"
+            />
+
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            layout="@layout/rank_dialog" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Para definir seu estado de ânimo, por favor, movimente o seguinte indicador e clique em Salvar"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="30.0sp"
+            />
+        <SeekBar
+            android:id="@+id/seekBar"
+            android:max="100"
+            android:progress="100"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:text="@string/screen_accept_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:onClick="ProceessMood"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="30.0sp"
+            />
+    </LinearLayout>
+
+</RelativeLayout>
