@@ -1,5 +1,5 @@
 # BraPolar
- BraPolar, an m-Health for remote monitoring of patients with Bipolar Affective Disorder, presenting real-time mood and behavior fluctuations in participants through interaction with their mobile devices. 
+BraPolar, an m-Health for remote monitoring of patients with Bipolar Affective Disorder, presenting real-time mood and behavior fluctuations in participants through interaction with their mobile devices. 
  
 **Specialist user (center) monitoring Mood fluctuations of two patients (left and right)**
 <h1 align="center">
@@ -79,10 +79,16 @@
 </h1>
 
 
-**Work presentation **
+**Work presentation in Kyoto, Japan**
 <h1>
   <img 
-    src="./doc/workflow.jpg"
+    src="./doc/segah1.jpg"
+  />
+ <img 
+    src="./doc/segah2.jpg"
+  />
+ <img 
+    src="./doc/segah3.jpg"
   />
 </h1>
 
@@ -97,100 +103,64 @@
 - BraPolar v1.0 (relased in 11/02/2019)
 - BraPolar v0.5 (relased in 12/12/2018)
 
-This project is part of my PhD thesis, which is running. From v1.0, to preserve scientific code rights, I will not upload new public versions on Github until concluding my doctoral degree and get the authorization to publish all code.    
+This project was part of my master degree dissertation and my PhD thesis, which is running. From v1.0, to preserve scientific code rights, I will not upload new public versions on Github until concluding my doctoral degree and get the authorization to publish all code.    
 
 ---
-## ✅ Main features
-**Patient**
-- [x] Set mood
-- [x] 
-
-**Specialist**
+## ✅ Main tracking features
+- [x] Mood
+- [x] Specialized assistance
+- [x] Medication
+- [x] Sleep patterns
+- [x] Status Overview
+- [x] Social interaction
+- [x] Physical activity
+- [x] Psychomotor activity
+- [x] Acoustic characteristics
 
 
 ---
 ## 🔧 Technology
-- [Android](https://httpd.apache.org/) 💚
-- [Java](https://www.python.org/) 
-- [Firebase](https://www.djangoproject.com/) 
+- [Android](https://www.android.com/) 💚
+- [Java](https://www.java.com/) 
+- [Firebase](https://firebase.google.com/) 
 
 ---
 ## 👨‍💻 How to Setup
 
 ```bash
   # Clone the project
-  $ git clone https://github.com/abelgonzalez/Ajustes.git
+  $ git clone https://github.com/abelgonzalez/BraPolar.git
 ```
 ```bash
   # Enter directory
-  $ cd Ajustes
+  $ cd BraPolar
 ```
 
 Download and install:
-
- - [XAMPP for Windows 7.4.29](https://www.apachefriends.org/download.html)
+ - [Android Studio](https://developer.android.com/android-studio/download)  
+ - [JRE](https://www.java.com/en/download/manual.jsp)   
   
- - [Python 3.7.7](https://www.python.org/downloads/release/python-377/)
-
- - [Django 1.7](https://www.djangoproject.com/download/1.7/tarball/) 
-   or
-  ```bash
-    # Clone the project
-    $ pip install Django==1.7
-  ```
-  
-- [Visual Studio Code 1.67.2](https://code.visualstudio.com/Download)
-
-- [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
-
-- On your system you would do this by running this in your command prompt:
-```bash     
-    $ set "MOD_WSGI_APACHE_ROOTDIR=C:\xampp\apache"
-  ```
--  Install mod_wsgi 4.9.2
-   ```bash
-    # Install the last version
-    $ pip install mod_wsgi
-   ```
-  
-
-- You can add WSGIScriptAlias /mysite "C:/xampp/htdocs/wsgi/scripts/mysite.wsgi" in wsgi.conf to run http://YOURSITE/mysite, or you can just run http://YOURSITE/wsgi/mysite.wsgi
-Relaunch apache if necessary.
-  
-- At the end of file C:\xampp\apache\conf\httpd.conf , add the following:
-  AddHandler cgi-script .py
-  ScriptInterpreterSource Registry-Strict
-- Locate <IfModule dir_module> label and add **index.py** at right of **home.htm**
-- Save the httpd.conf changes
-  
-- Open MySQL and import the database file **ajustes_bd.sql** in the project source.
-  Database name: ajustes_UM
-  utf: utf8_spanish_ci
-  
-  
- - Go to project root folder (**tesis**)
-  ```bash
-    # Run
-    $ python manage.py migrate
-    $ python manage.py makemigrations
-    $ python manage.py migrate
-  ```
      
 ---
 ## 😎 How to Run
 
- - Make sure the database was correctly loaded and MySQL is running.
-  
- - In root folder (**tesis**) run:
-  ```bash
-    # Run
-    $ python manage.py runserver 
-  ```
+ - Make sure the database in Firebase was correctly loaded and you have a stable internet connection.  
+ - Load root project folder (**BraPolar**) with Android Studio and run it.
+ - When apps run, [grant all permissions to android application](https://youtu.be/sE-cXkv3m7o). 
+
+
+---
+## 👉 Scientific contributions
+* A. G. Mondéjar, G. F. M. Silva-Calpa, A. B. Raposo and D. C. Mograbi, "BraPolar: an M-Health Application for Remote Monitoring of People with Bipolar Disorder," 2019 IEEE 7th International Conference on Serious Games and Applications for Health (SeGAH), Kyoto, Japan, 2019, pp. 1-8, doi: 10.1109/SeGAH.2019.8882469. 
+* A. González Mondéjar, G. F. M. Silva-Calpa, A. Barbosa Raposo and D. C. Mograbi, "An m-Health Application for Remote Monitoring of People with Bipolar Disorder through Digital Phenotyping and Smartphone Dependency," 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 388-391, doi: 10.1109/CBMS49503.2020.00080.
+
 
 ---
 ## 👉 Additional information
-* App Demo https://youtu.be/4jX4oDhjTtc
-* Technical and User's Manual is available in [Doc](https://github.com/abelgonzalez/Ajustes/tree/main/doc) folder (in Spanish).
+* App Demo [YouTube](https://youtu.be/8dGao-oN-EE)
+* BraPolar patient interaction demo [YouTube](https://youtu.be/cecpac-bmH4)
+* BraPolar specialists interaction demo [YouTube](https://youtu.be/7gtjYNlSh6w)
+* Master degree dissertation [document](https://bdtd.ibict.br/vufind/Record/PUC_RIO-1_a2695ae927b56d67051524f2afd2ae3c) (in Portuguese).
 * In case of sensitive bugs like security vulnerabilities, don't hesitate to contact me at abelgodev@gmail.com instead of using the issue tracker. I value your effort to improve the security and privacy of this project!
 
 ---
