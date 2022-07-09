@@ -17,54 +17,43 @@ BraPolar, an m-Health for remote monitoring of patients with Bipolar Affective D
 
 
 **Project scratch**
-<h1>
+<h1 align="center">
   <img 
-    src="./doc/image033.jpg"
+    src="./doc/image033.jpg" class="center" width="500" height="400"
   />
 </h1>
 
 
 **Task planning**
-<h1>
+<h1 align="center">
   <img 
-    src="./doc/maquetado_Trello.JPG"
+    src="./doc/maquetado_Trello.JPG" width="850" height="500"
   />
 </h1>
 
 
 **Bipolar sympthons and how follow-up with cellphone sensors**
-<h1>
+<h1 align="center">
   <img 
     src="./doc/image01.jpg"
   />
 </h1>
 
-
-
-**Login arquitecture**
-<h1>
-  <img 
-    src="./doc/image02.png"
+**Firebase data stream arquitecture**
+<h1 align="center">
+  <img src="./doc/image02.png" width="400" height="400"
   />
 </h1>
 
-
-
-**BraPolar login (left), participant home (center), keyboard typing (left)*
-<h1>
-  <img 
-    src="./doc/brapolar_Login.png"
-  />
-  <img 
-    src="./doc/brapolar_participanteHome.jpg"
-  />
-  <img 
-    src="./doc/brapolar_KeyboardTestWhatsapp.jpg"
-  />
+**BraPolar login (left), participant home (center), keyboard typing (left)
+<h1 align="center">
+  <img src="./doc/brapolar_Login.png" width="200" height="350" /> 
+  <img src="./doc/brapolar_participanteHome.jpg" width="180" height="350" />  
+  <img src="./doc/brapolar_KeyboardTestWhatsapp.jpg" width="180" height="350" />
 </h1>
 
 **Firebase active users during data capture**
-<h1>
+<h1 align="center">
   <img 
     src="./doc/usuarios_ativos.JPG"
   />
@@ -72,7 +61,7 @@ BraPolar, an m-Health for remote monitoring of patients with Bipolar Affective D
 
 
 **Firebase non-relational database instance**
-<h1>
+<h1 align="center">
   <img 
     src="./doc/firebasedatabase.JPG"
   />
@@ -80,16 +69,9 @@ BraPolar, an m-Health for remote monitoring of patients with Bipolar Affective D
 
 
 **Work presentation in Kyoto, Japan**
-<h1>
-  <img 
-    src="./doc/segah1.jpg"
-  />
- <img 
-    src="./doc/segah2.jpg"
-  />
- <img 
-    src="./doc/segah3.jpg"
-  />
+<h1 align="center">
+  <img src="./doc/segah1.jpg" width="500" height="400"/>
+ <img src="./doc/segah3.jpg" width="400" height="400"/>
 </h1>
 
 ---
