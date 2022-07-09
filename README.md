@@ -70,8 +70,8 @@ BraPolar, an m-Health for remote monitoring of patients with Bipolar Affective D
 
 **Work presentation in Kyoto, Japan**
 <h1 align="center">
-  <img src="./doc/segah1.jpg" width="500" height="400"/>
- <img src="./doc/segah3.jpg" width="400" height="400"/>
+  <img src="./doc/segah1.jpg" width="400" height="300"/>
+ <img src="./doc/segah3.jpg" width="300" height="300"/>
 </h1>
 
 ---
