@@ -81,23 +81,23 @@ BraPolar, an m-Health for remote monitoring of patients with Bipolar Affective D
 - BraPolar v2.3 (relased in 21/05/2022)
 - BraPolar v2.2 (relased in 02/08/2021)
 - BraPolar v2.1 (relased in 17/11/2020)
-- BraPolar v2.0 (relased in 19/08/2019)
+- BraPolar v2.0 (relased in 19/07/2019)
 - BraPolar v1.0 (relased in 11/02/2019)
-- BraPolar v0.5 (relased in 12/12/2018)
+- BraPolar v0.5 (relased in 12/10/2018)
 
 This project was part of my master degree dissertation and my PhD thesis, which is running. From v1.0, to preserve scientific code rights, I will not upload new public versions on Github until concluding my doctoral degree and get the authorization to publish all code.    
 
 ---
 ## ✅ Main tracking features
 - [x] Mood
-- [x] Specialized assistance
 - [x] Medication
 - [x] Sleep patterns
 - [x] Status Overview
-- [x] Social interaction
 - [x] Physical activity
-- [x] Psychomotor activity
-- [x] Acoustic characteristics
+- [x] Social interaction
+- [] Psychomotor activity
+- [] Specialized assistance
+- [] Acoustic characteristics
 
 
 ---
@@ -126,10 +126,15 @@ Download and install:
 ---
 ## 😎 How to Run
 
+*Build an BraPolar app:
  - Make sure the database in Firebase was correctly loaded and you have a stable internet connection.  
  - Load root project folder (**BraPolar**) with Android Studio and run it.
  - When apps run, [grant all permissions to android application](https://youtu.be/sE-cXkv3m7o). 
 
+or
+
+*Executes a apk in your Android phone:
+ - Enter in (...)\BraPolar\app\build and execute "BraPolarv1.0.apk" with login "login instructions.txt".
 
 ---
 ## 🤓 Scientific contributions
