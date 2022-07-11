@@ -1,7 +1,5 @@
 # BraPolar 👨‍🔬
-BraPolar, an Adroid m-Health for remote monitoring of patients with Bipolar Affective Disorder, presenting real-time mood and behavior fluctuations in participants through interaction with their mobile devices. 
- 
-**Specialist user (center) monitoring Mood fluctuations of two patients (left and right)**
+
 <h1 align="center">
   <img 
     src="./doc/demo.gif"
@@ -67,6 +65,12 @@ BraPolar, an Adroid m-Health for remote monitoring of patients with Bipolar Affe
   />
 </h1>
 
+**Specialist user (center) monitoring Mood fluctuations of two patients (left and right)**
+<h1 align="center">
+  <img 
+    src="./doc/demo.gif"
+  />
+</h1>
 
 **Work presentation in Kyoto, Japan**
 <h1 align="center">
