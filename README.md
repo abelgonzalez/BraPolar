@@ -99,9 +99,9 @@ This project was part of my master degree dissertation and my PhD thesis, which 
 - [x] Status Overview
 - [x] Physical activity
 - [x] Social interaction
-- [] Psychomotor activity
-- [] Specialized assistance
-- [] Acoustic characteristics
+- [ ] Psychomotor activity
+- [ ] Specialized assistance
+- [ ] Acoustic characteristics
 
 
 ---
