@@ -1,5 +1,5 @@
 # BraPolar 👨‍🔬
-BraPolar, an m-Health for remote monitoring of patients with Bipolar Affective Disorder, presenting real-time mood and behavior fluctuations in participants through interaction with their mobile devices. 
+BraPolar, an Adroid m-Health for remote monitoring of patients with Bipolar Affective Disorder, presenting real-time mood and behavior fluctuations in participants through interaction with their mobile devices. 
  
 **Specialist user (center) monitoring Mood fluctuations of two patients (left and right)**
 <h1 align="center">
