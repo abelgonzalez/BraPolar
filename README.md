@@ -142,7 +142,7 @@ or
 
 ---
 ## 🤓 Scientific contributions
-* A. G. Mondéjar, G. F. M. Silva-Calpa, A. B. Raposo and D. C. Mograbi, "BraPolar: an M-Health Application for Remote Monitoring of People with Bipolar Disorder," 2019 IEEE 7th International Conference on Serious Games and Applications for Health (SeGAH), Kyoto, Japan, 2019, pp. 1-8, doi: 10.1109/SeGAH.2019.8882469. 
+* A. González Mondéjar, G. F. M. Silva-Calpa, A. Barbosa Raposo and D. C. Mograbi, "BraPolar: an M-Health Application for Remote Monitoring of People with Bipolar Disorder," 2019 IEEE 7th International Conference on Serious Games and Applications for Health (SeGAH), Kyoto, Japan, 2019, pp. 1-8, doi: 10.1109/SeGAH.2019.8882469. 
 * A. González Mondéjar, G. F. M. Silva-Calpa, A. Barbosa Raposo and D. C. Mograbi, "An m-Health Application for Remote Monitoring of People with Bipolar Disorder through Digital Phenotyping and Smartphone Dependency," 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), Rochester, MN, USA, 2020, pp. 388-391, doi: 10.1109/CBMS49503.2020.00080.
 
 
