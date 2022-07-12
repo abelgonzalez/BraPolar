@@ -8,7 +8,7 @@
 
 ---
 ## 🧾 About
-**BraPolar v1.0**, is an Android m-Health for remote monitoring of patients with Bipolar Affective Disorder. The app present in real-time mood and behavior fluctuations to specialists from participants through their interaction with the mobile devices. This project was part of my master degree dissertation in Brazil. In this work, I could execute all software development cycles from scratch, application and documentation. Also, I could practice all research process of scientific research writing and presenting this work in a international conference at Kyoto, Japan.
+**BraPolar v1.0**, is an Android m-Health for remote monitoring of patients with Bipolar Affective Disorder. The app presents real-time mood and behavior fluctuations to specialists from participants through their interaction with mobile devices. This project was part of my master's degree dissertation in Brazil. In this work, I could execute all software development cycles from scratch, including Android applications, and documentation. Also, I could practice all research processes of scientific research writing and presenting this work at an international conference in Kyoto, Japan.
 
 ---
 ## 📷 Screenshots
@@ -30,20 +30,20 @@
 </h1>
 
 
-**Bipolar sympthons and how follow-up with cellphone sensors**
+**Bipolar symptoms and how follow-up with cellphone sensors**
 <h1 align="center">
   <img 
     src="./doc/image01.jpg"
   />
 </h1>
 
-**Firebase data stream arquitecture**
+**Firebase data stream architecture**
 <h1 align="center">
   <img src="./doc/image02.png" width="400" height="400"
   />
 </h1>
 
-**BraPolar login (left), participant home (center), keyboard typing (left)
+**BraPolar login (left), participant home (center), keyboard typing (right)
 <h1 align="center">
   <img src="./doc/brapolar_Login.png" width="200" height="350" /> 
   <img src="./doc/brapolar_participanteHome.jpg" width="180" height="350" />  
@@ -58,7 +58,7 @@
 </h1>
 
 
-**Firebase non-relational database instance**
+**Firebase non-relational database instance sample**
 <h1 align="center">
   <img 
     src="./doc/firebasedatabase.JPG"
@@ -72,7 +72,7 @@
   />
 </h1>
 
-**Work presentation in Kyoto, Japan**
+**Paper presentation in Kyoto, Japan**
 <h1 align="center">
   <img src="./doc/segah1.jpg" width="400" height="300"/>
  <img src="./doc/segah3.jpg" width="300" height="300"/>
@@ -89,7 +89,7 @@
 - BraPolar v1.0 (relased in 11/02/2019)
 - BraPolar v0.5 (relased in 12/10/2018)
 
-This project was part of my master degree dissertation and my PhD thesis, which is running. From v1.0, to preserve scientific code rights, I will not upload new public versions on Github until concluding my doctoral degree and get the authorization to publish all code.    
+This project was part of my master's degree dissertation and my Ph.D. thesis, which is running. From v1.0, to preserve scientific code rights, I will not upload new public versions on Github until concluding my doctoral degree and get the authorization to publish all code.    
 
 ---
 ## ✅ Main tracking features
@@ -99,7 +99,7 @@ This project was part of my master degree dissertation and my PhD thesis, which 
 - [x] Status Overview
 - [x] Physical activity
 - [x] Social interaction
-- [ ] Psychomotor activity
+- [ ] Psycho-motor activity
 - [ ] Specialized assistance
 - [ ] Acoustic characteristics
 
@@ -130,14 +130,14 @@ Download and install:
 ---
 ## 😎 How to Run
 
-*Build an BraPolar app:
- - Make sure the database in Firebase was correctly loaded and you have a stable internet connection.  
- - Load root project folder (**BraPolar**) with Android Studio and run it.
+*Build a BraPolar app:
+ - Make sure the database in Firebase was correctly loaded, and you have a stable internet connection.  
+ - Load the root project folder (**BraPolar**) with Android Studio and run it.
  - When apps run, [grant all permissions to android application](https://youtu.be/sE-cXkv3m7o). 
 
 or
 
-*Executes a apk in your Android phone:
+*Executes an apk in your Android phone:
  - Enter in (...)\BraPolar\app\build and execute "BraPolarv1.0.apk" with login "login instructions.txt".
 
 ---
